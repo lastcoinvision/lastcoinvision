@@ -1,0 +1,2 @@
+debian/bin/lastcoind usr/bin
+src/lastcoind usr/lib/lastcoin
